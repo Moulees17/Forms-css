@@ -1,0 +1,17 @@
+h3{color:deeppink;
+}
+#p{color:blueviolet;
+    background-color: aquamarine;
+}
+#div{ color: blueviolet;
+    background-color: azure;
+
+}
+table.center{align:center;
+    color:rgb(182, 74, 224);
+    background-color:goldenrod;
+}
+footer.center { align:center;
+    color: beige;
+    background-color: blueviolet;
+}
